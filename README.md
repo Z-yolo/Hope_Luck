@@ -1,4 +1,4 @@
-# RCC: anonymous reproduction package
+# Anonymous reproduction package
 
 **Main source code for RCC-ICLR2027.**
 
