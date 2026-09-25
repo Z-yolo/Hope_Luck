@@ -1,6 +1,6 @@
 # RCC: anonymous reproduction package
 
-**Main source code for Reliability Configuration Calibration (RCC).**
+**Main source code for RCC-ICLR2027.**
 
 ## Evaluate supplied checkpoints
 
